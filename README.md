@@ -13,4 +13,6 @@ YouTube is an American online video sharing and social media platform headquarte
 
 <h1>Snaps of Our Website:</h1>
 
-<img src="https://github.com/ImErPratik/Weather-Report/blob/main/Weather_Forecast_App-main/weather.png" style=" width:1000px ; height:500px "  >
+<img src="https://github.com/ImErPratik/Clone-of-YouTube.com/blob/main/utube%20img.png"  >
+
+<img src=""  >
